@@ -1,1 +1,1 @@
-# Simple-and-Advanced-Sliders
+# Simple-Slider
